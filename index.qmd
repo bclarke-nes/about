@@ -1,0 +1,57 @@
+---
+title: "Brendan Clarke"
+image: src/images/yellow_pic.jpg
+about:
+  template: jolla
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/bclarke-nes
+    - icon: laptop
+      text: Training materials
+      href: https://example.com
+    - icon: people-fill
+      text: KIND network
+      href: https://forms.office.com/r/WQdd6HSCEW
+    - icon: envelope
+      text: Contact
+      href: mailto:brendan.clarke2@nhs.scot
+---
+
+
+# Hello
+
+I'm a specialist data educator, working for NHS Education for Scotland. 
+
+## What do I do?
+
+I run a social learning network called the [KIND network](https://forms.office.com/r/WQdd6HSCEW), which provides training and support to knowledge, information, and data staff working across Scotland's health, social care, and housing sectors. That means designing and delivering lots of [R training](https://nes-dew.github.io/KIND-training/r_main.html), from absolute beginners to advanced work, [training on Microsoft's data-ish tools](https://nes-dew.github.io/KIND-training/BI_main.html), especially Power BI, PowerQuery, and Excel (the cement of the public-sector universe), and (increasingly), lots of specialist non-technical training about AI/ML, data literacy, and data viz. I also am involved in national initiatives about digital and data careers.
+
+## CV
+
+I've always been interested in tech, but professionally I initially trained in medicine and philosophy. I've spent the bulk of my professional life so far university teaching and working on a research programme about [evidence](https://doi.org/10.1007/978-3-319-94610-8) and [causation](https://doi.org/10.1007/s11229-013-0360-7) in health. 
+
+After a happy decade or so of work in [UCL STS](http://ucl.ac.uk/sts), I decided to take a bit of time away from academic work to support a family relocation to the North Highlands. Ironically, my planned "quiet career break year" was 2019, and so the laziness, reflection, and family life that I'd been after turned into "really intensive COVID response work". That had the happy side-effect of confronting me with a lot of interesting data science person, and kindling a passion for doing health tech better in a way that serves the needs of the people of Scotland. 
+
+A personal view: health tech still serves the interests of tech companies first, and the needs of the population last. That's the wrong way round, and we desperately need data science experts who can challenge that injustice.
+
+:::{#hero-heading}
+
+## Qualifications
+MB BS medicine, UCL, 2007
+
+[PhD in philosophy of medicine](https://discovery.ucl.ac.uk/1440583), UCL, 2011
+
+postgraduate certificates in biomedical ethics, information governance, and teaching for HE/FE
+
+## Useful skills
+
+Fluent R, Power BI, Excel/PowerQuery, with useful subsidiary skills in Tableau, Python, SQL 
+
+Highly experienced teacher at all levels between secondary school and post-doctoral, with a particular interest in designing and delivering training that's strongly adapted to meet the needs of the health and care workforce.
+
+Experienced public engagement, including writing, media, and (horrifyingly) standup
+
+Academic research with 20+ major academic outputs - see [non-current ORCID](https://orcid.org/0000-0002-6159-4928)
+
+:::
